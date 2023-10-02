@@ -7,7 +7,7 @@
 
 ##Instructions:
     1. Create and activate the venv
-    2. Edit the start state from the main method, use populate_board() for a random start state
+    2. Edit the start state from the main method, use populate_board() for a random start state, note populate board does not always create a solvable state.
     3. Run the python script
 
 ####Windows:
